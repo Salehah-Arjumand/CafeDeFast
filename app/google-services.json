@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698831340933",
+    "firebase_url": "https://cafedefast-c364e-default-rtdb.firebaseio.com",
+    "project_id": "cafedefast-c364e",
+    "storage_bucket": "cafedefast-c364e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698831340933:android:b21e87531f2bbeec91b0ec",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698831340933-e8ueto564qnlodquhebr05sji79q5j0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myproject",
+            "certificate_hash": "0f465f453762282daa9f44681aedd248f48afdd7"
+          }
+        },
+        {
+          "client_id": "698831340933-dnbmlih88r8drspbmlpifugdsljck6i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWXVpJtzZCVxxSOYrE6F_sTIEDuTatzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698831340933-dnbmlih88r8drspbmlpifugdsljck6i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

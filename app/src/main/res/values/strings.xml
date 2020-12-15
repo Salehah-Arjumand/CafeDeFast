@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cafe de FAST</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">Rs.</string>
+    <string name="balance_amount">175</string>
+</resources>
